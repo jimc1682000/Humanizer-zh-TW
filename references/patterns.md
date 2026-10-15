@@ -2,6 +2,19 @@
 
 本檔為 `humanizer-zh-tw` 的完整規則庫。SKILL.md 的檢核清單只列一行摘要;要看某個模式的「需要注意的詞彙 / 問題 / before-after 範例」時讀這裡對應段落。內容基於 [Wikipedia:Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)(WikiProject AI Cleanup 維護)。
 
+## 目錄
+
+- 個性與靈魂
+- 內容模式（模式 1–6）
+- 語言和語法模式（模式 7–12）
+- 風格模式（模式 13–18）
+- 交流模式（模式 19–21）
+- 填充詞和迴避（模式 22–24）
+- 繁體中文標點正字法（zh-TW 專用）
+- 品質評分
+- 完整範例
+- 參考
+
 ---
 
 ## 個性與靈魂
